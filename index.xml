@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Заметки</title>
+      <link>https://lisstrange.github.io</link>
+      <description>Last 10 notes on Заметки</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>public</title>
+    <link>https://lisstrange.github.io/tags/public</link>
+    <guid>https://lisstrange.github.io/tags/public</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 05 Sep 2026 16:36:27 GMT</pubDate>
+  </item><item>
+    <title>note</title>
+    <link>https://lisstrange.github.io/tags/note</link>
+    <guid>https://lisstrange.github.io/tags/note</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 05 Sep 2026 16:36:27 GMT</pubDate>
+  </item><item>
+    <title>note/specific</title>
+    <link>https://lisstrange.github.io/tags/note/specific</link>
+    <guid>https://lisstrange.github.io/tags/note/specific</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 05 Sep 2026 16:36:27 GMT</pubDate>
+  </item><item>
+    <title>note/specific/exact</title>
+    <link>https://lisstrange.github.io/tags/note/specific/exact</link>
+    <guid>https://lisstrange.github.io/tags/note/specific/exact</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 05 Sep 2026 16:36:27 GMT</pubDate>
+  </item><item>
+    <title>category</title>
+    <link>https://lisstrange.github.io/tags/category</link>
+    <guid>https://lisstrange.github.io/tags/category</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 05 Sep 2026 16:36:27 GMT</pubDate>
+  </item><item>
+    <title>category/ai</title>
+    <link>https://lisstrange.github.io/tags/category/ai</link>
+    <guid>https://lisstrange.github.io/tags/category/ai</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 05 Sep 2026 16:36:27 GMT</pubDate>
+  </item><item>
+    <title>note/basic</title>
+    <link>https://lisstrange.github.io/tags/note/basic</link>
+    <guid>https://lisstrange.github.io/tags/note/basic</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 05 Sep 2026 16:36:27 GMT</pubDate>
+  </item><item>
+    <title>note/basic/primary</title>
+    <link>https://lisstrange.github.io/tags/note/basic/primary</link>
+    <guid>https://lisstrange.github.io/tags/note/basic/primary</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 05 Sep 2026 16:36:27 GMT</pubDate>
+  </item><item>
+    <title>category/de</title>
+    <link>https://lisstrange.github.io/tags/category/de</link>
+    <guid>https://lisstrange.github.io/tags/category/de</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 05 Sep 2026 16:36:27 GMT</pubDate>
+  </item><item>
+    <title>category/devops</title>
+    <link>https://lisstrange.github.io/tags/category/devops</link>
+    <guid>https://lisstrange.github.io/tags/category/devops</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 05 Sep 2026 16:36:27 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
